@@ -104,7 +104,7 @@ ABRSM 樂理考試分為 Grade 1 至 Grade 8，本教材涵蓋 Grade 1–5。
 | [Week 23](Week23.pdf) | Grade 4 | I、IV、V 三和弦（根音位置） |
 | [Week 24](Week24.pdf) | Grade 4 | 增減音程（Augmented / Diminished） |
 | [Week 25](Week25.pdf) | Grade 4 | 六種裝飾音＋半音階書寫規則 |
-| [Week 26](Week26.pdf) | Grade 4 | 樂器認識＋為歌詞配節奏＋**Grade 4 模擬考** |
+| [Week 26](Week26.pdf) | Grade 4 | 四大樂器族＋為歌詞配節奏＋Grade 4 術語 |
 | [Week 27](Week27.pdf) | Grade 5 | 次中音譜號（Tenor Clef）＋六個升降號大小調 |
 | [Week 28](Week28.pdf) | Grade 5 | 不規則拍號＋不規則分拍 |
 | [Week 29](Week29.pdf) | Grade 5 | 聲部總譜（Short Score / Open Score） |
