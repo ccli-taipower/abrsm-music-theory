@@ -97,7 +97,7 @@ ABRSM 樂理考試分為 Grade 1 至 Grade 8，本教材涵蓋 Grade 1–5。
 | [Week 16](Week16.pdf) | Grade 3 | 複拍子音符分組＋單複拍子互換 |
 | [Week 17](Week17.pdf) | Grade 3 | 旋律小音階（Melodic Minor）＋完整關係調表 |
 | [Week 18](Week18.pdf) | Grade 3 | 音程品質（Major / Minor / Perfect） |
-| [Week 19](Week19.pdf) | Grade 3 | 弱起小節＋樂句結構＋**Grade 3 模擬考** |
+| [Week 19](Week19.pdf) | Grade 3 | 弱起小節＋樂句結構＋Grade 3 術語總整理 |
 | [Week 20](Week20.pdf) | Grade 4 | 中音譜號（Alto Clef） |
 | [Week 21](Week21.pdf) | Grade 4 | 拍號進階＋重升降＋複附點＋雙拍 |
 | [Week 22](Week22.pdf) | Grade 4 | 五個升降號大小調＋音階各音名稱 |
