@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" alt="ABRSM 樂理備考教材封面" width="100%">
+</p>
+
 # 🎵 ABRSM 樂理 Grade 1–5 週次教材
 ### 上班族備考版 · 36 週零基礎到通過考試
 
