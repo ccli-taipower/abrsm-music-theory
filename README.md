@@ -83,52 +83,52 @@ ABRSM 樂理考試分為 Grade 1 至 Grade 8，本教材涵蓋 Grade 1–5。
 
 | 週次 | 對應級別 | 主題 |
 |------|---------|------|
-| [Week 01](Week01.pdf) | Grade 1 | 音符時值（Note Values）＋休止符（Rests） |
-| [Week 02](Week02.pdf) | Grade 1 | 拍號（Time Signatures）、小節線、連桿規則 |
-| [Week 03](Week03.pdf) | Grade 1 | 高音譜號（Treble Clef）音名 |
-| [Week 04](Week04.pdf) | Grade 1 | 低音譜號(Bass Clef）＋附點音符＋連結線 |
-| [Week 05](Week05.pdf) | Grade 1 | 臨時記號（Accidentals）＋全音與半音 |
-| [Week 06](Week06.pdf) | Grade 1 | 大音階原理＋C 大調＋G 大調 |
-| [Week 07](Week07.pdf) | Grade 1 | D 大調＋F 大調＋調號總整理 |
-| [Week 08](Week08.pdf) | Grade 1 | 音程（Intervals）＋主三和弦（Tonic Triad） |
-| [Week 09](Week09.pdf) | Grade 1 | 節奏創作＋演奏術語＋**Grade 1 模擬考** |
-| [Week 10](Week10.pdf) | Grade 2 | 加線（Ledger Lines）＋新拍號（底數 2 & 8） |
-| [Week 11](Week11.pdf) | Grade 2 | 三連音（Triplets）＋拍子類型 |
-| [Week 12](Week12.pdf) | Grade 2 | 小調（Minor Keys）＋關係調＋和聲小音階 |
-| [Week 13](Week13.pdf) | Grade 2 | 音符分組＋Grade 2 術語＋**Grade 2 模擬考** |
-| [Week 14](Week14.pdf) | Grade 3 | 三十二分音符＋四個升降號大調 |
-| [Week 15](Week15.pdf) | Grade 3 | 複拍子（Compound Time：6/8、9/8、12/8） |
-| [Week 16](Week16.pdf) | Grade 3 | 複拍子音符分組＋單複拍子互換 |
-| [Week 17](Week17.pdf) | Grade 3 | 旋律小音階（Melodic Minor）＋完整關係調表 |
-| [Week 18](Week18.pdf) | Grade 3 | 音程品質（Major / Minor / Perfect） |
-| [Week 19](Week19.pdf) | Grade 3 | 弱起小節＋樂句結構＋Grade 3 術語總整理 |
-| [Week 20](Week20.pdf) | Grade 4 | 中音譜號（Alto Clef） |
-| [Week 21](Week21.pdf) | Grade 4 | 拍號進階＋重升降記號＋複附點＋雙拍 |
-| [Week 22](Week22.pdf) | Grade 4 | 5 升降號大小調（B／D♭）＋音階級數名稱 |
-| [Week 23](Week23.pdf) | Grade 4 | I、IV、V 三和弦（根音位置） |
-| [Week 24](Week24.pdf) | Grade 4 | 增減音程（Augmented / Diminished） |
-| [Week 25](Week25.pdf) | Grade 4 | 六種裝飾音＋半音階書寫規則 |
-| [Week 26](Week26.pdf) | Grade 4 | 四大樂器族＋為歌詞配節奏＋Grade 4 術語 |
-| [Week 27](Week27.pdf) | Grade 5 | 次中音譜號（Tenor Clef）＋六個升降號大小調 |
-| [Week 28](Week28.pdf) | Grade 5 | 不規則拍號＋不規則分拍 |
-| [Week 29](Week29.pdf) | Grade 5 | 聲部總譜（Short Score / Open Score） |
-| [Week 30](Week30.pdf) | Grade 5 | 超過八度的音程＋和弦轉位（Inversions） |
-| [Week 31](Week31.pdf) | Grade 5 | 終止式（Cadences：完全、變格、不完全） |
-| [Week 32](Week32.pdf) | Grade 5 | 8 小節旋律創作（上）：結構框架 |
-| [Week 33](Week33.pdf) | Grade 5 | 8 小節旋律創作（下）：和弦骨架＋完整練習 |
-| [Week 34](Week34.pdf) | Grade 5 | 裝飾音進階＋德文 / 法文術語 |
-| [Week 35](Week35.pdf) | 全科複習 | Grade 1–3 重點整理＋自測題 |
-| [Week 36](Week36.pdf) | 全科複習 | Grade 4–5 重點整理＋**Grade 5 模擬考指導** |
+| [Week 01](weeks/Week01.pdf) | Grade 1 | 音符時值（Note Values）＋休止符（Rests） |
+| [Week 02](weeks/Week02.pdf) | Grade 1 | 拍號（Time Signatures）、小節線、連桿規則 |
+| [Week 03](weeks/Week03.pdf) | Grade 1 | 高音譜號（Treble Clef）音名 |
+| [Week 04](weeks/Week04.pdf) | Grade 1 | 低音譜號(Bass Clef）＋附點音符＋連結線 |
+| [Week 05](weeks/Week05.pdf) | Grade 1 | 臨時記號（Accidentals）＋全音與半音 |
+| [Week 06](weeks/Week06.pdf) | Grade 1 | 大音階原理＋C 大調＋G 大調 |
+| [Week 07](weeks/Week07.pdf) | Grade 1 | D 大調＋F 大調＋調號總整理 |
+| [Week 08](weeks/Week08.pdf) | Grade 1 | 音程（Intervals）＋主三和弦（Tonic Triad） |
+| [Week 09](weeks/Week09.pdf) | Grade 1 | 節奏創作＋演奏術語＋**Grade 1 模擬考** |
+| [Week 10](weeks/Week10.pdf) | Grade 2 | 加線（Ledger Lines）＋新拍號（底數 2 & 8） |
+| [Week 11](weeks/Week11.pdf) | Grade 2 | 三連音（Triplets）＋拍子類型 |
+| [Week 12](weeks/Week12.pdf) | Grade 2 | 小調（Minor Keys）＋關係調＋和聲小音階 |
+| [Week 13](weeks/Week13.pdf) | Grade 2 | 音符分組＋Grade 2 術語＋**Grade 2 模擬考** |
+| [Week 14](weeks/Week14.pdf) | Grade 3 | 三十二分音符＋四個升降號大調 |
+| [Week 15](weeks/Week15.pdf) | Grade 3 | 複拍子（Compound Time：6/8、9/8、12/8） |
+| [Week 16](weeks/Week16.pdf) | Grade 3 | 複拍子音符分組＋單複拍子互換 |
+| [Week 17](weeks/Week17.pdf) | Grade 3 | 旋律小音階（Melodic Minor）＋完整關係調表 |
+| [Week 18](weeks/Week18.pdf) | Grade 3 | 音程品質（Major / Minor / Perfect） |
+| [Week 19](weeks/Week19.pdf) | Grade 3 | 弱起小節＋樂句結構＋Grade 3 術語總整理 |
+| [Week 20](weeks/Week20.pdf) | Grade 4 | 中音譜號（Alto Clef） |
+| [Week 21](weeks/Week21.pdf) | Grade 4 | 拍號進階＋重升降記號＋複附點＋雙拍 |
+| [Week 22](weeks/Week22.pdf) | Grade 4 | 5 升降號大小調（B／D♭）＋音階級數名稱 |
+| [Week 23](weeks/Week23.pdf) | Grade 4 | I、IV、V 三和弦（根音位置） |
+| [Week 24](weeks/Week24.pdf) | Grade 4 | 增減音程（Augmented / Diminished） |
+| [Week 25](weeks/Week25.pdf) | Grade 4 | 六種裝飾音＋半音階書寫規則 |
+| [Week 26](weeks/Week26.pdf) | Grade 4 | 四大樂器族＋為歌詞配節奏＋Grade 4 術語 |
+| [Week 27](weeks/Week27.pdf) | Grade 5 | 次中音譜號（Tenor Clef）＋六個升降號大小調 |
+| [Week 28](weeks/Week28.pdf) | Grade 5 | 不規則拍號＋不規則分拍 |
+| [Week 29](weeks/Week29.pdf) | Grade 5 | 聲部總譜（Short Score / Open Score） |
+| [Week 30](weeks/Week30.pdf) | Grade 5 | 超過八度的音程＋和弦轉位（Inversions） |
+| [Week 31](weeks/Week31.pdf) | Grade 5 | 終止式（Cadences：完全、變格、不完全） |
+| [Week 32](weeks/Week32.pdf) | Grade 5 | 8 小節旋律創作（上）：結構框架 |
+| [Week 33](weeks/Week33.pdf) | Grade 5 | 8 小節旋律創作（下）：和弦骨架＋完整練習 |
+| [Week 34](weeks/Week34.pdf) | Grade 5 | 裝飾音進階＋德文 / 法文術語 |
+| [Week 35](weeks/Week35.pdf) | 全科複習 | Grade 1–3 重點整理＋自測題 |
+| [Week 36](weeks/Week36.pdf) | 全科複習 | Grade 4–5 重點整理＋**Grade 5 模擬考指導** |
 
 ### 📝 模擬試卷
-[Mock Exam · Grade 1](MockExam_Grade1.pdf)　｜　[Grade 2](MockExam_Grade2.pdf)　｜　[Grade 3](MockExam_Grade3.pdf)　｜　[Grade 4](MockExam_Grade4.pdf)　｜　[Grade 5](MockExam_Grade5.pdf)
+[Mock Exam · Grade 1](mock_exams/MockExam_Grade1.pdf)　｜　[Grade 2](mock_exams/MockExam_Grade2.pdf)　｜　[Grade 3](mock_exams/MockExam_Grade3.pdf)　｜　[Grade 4](mock_exams/MockExam_Grade4.pdf)　｜　[Grade 5](mock_exams/MockExam_Grade5.pdf)
 
 ### 🗂️ 速查卡（Cheat Sheet）—— 單頁 A4 橫向，考前快速複習
-[Grade 1](CheatSheet_Grade1.pdf)　｜　[Grade 2](CheatSheet_Grade2.pdf)　｜　[Grade 3](CheatSheet_Grade3.pdf)　｜　[Grade 4](CheatSheet_Grade4.pdf)　｜　[Grade 5](CheatSheet_Grade5.pdf)
+[Grade 1](cheat_sheets/CheatSheet_Grade1.pdf)　｜　[Grade 2](cheat_sheets/CheatSheet_Grade2.pdf)　｜　[Grade 3](cheat_sheets/CheatSheet_Grade3.pdf)　｜　[Grade 4](cheat_sheets/CheatSheet_Grade4.pdf)　｜　[Grade 5](cheat_sheets/CheatSheet_Grade5.pdf)
 
 ### 📋 考試流程注意事項
 從報名、考前準備、考前一天、考試當天、到考試結束以後的完整檢查清單，全部依據 ABRSM 官方公開資料整理：  
-**[ExamDay_Guide.pdf](ExamDay_Guide.pdf)** —— Grade 1–5 線上樂理考試適用
+**[ExamDay_Guide.pdf](cheat_sheets/ExamDay_Guide.pdf)** —— Grade 1–5 線上樂理考試適用
 
 ---
 
