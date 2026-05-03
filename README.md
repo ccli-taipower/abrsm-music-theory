@@ -126,6 +126,10 @@ ABRSM 樂理考試分為 Grade 1 至 Grade 8，本教材涵蓋 Grade 1–5。
 ### 🗂️ 速查卡（Cheat Sheet）—— 單頁 A4 橫向，考前快速複習
 [Grade 1](CheatSheet_Grade1.pdf)　｜　[Grade 2](CheatSheet_Grade2.pdf)　｜　[Grade 3](CheatSheet_Grade3.pdf)　｜　[Grade 4](CheatSheet_Grade4.pdf)　｜　[Grade 5](CheatSheet_Grade5.pdf)
 
+### 📋 考試流程注意事項
+從報名、考前準備、考前一天、考試當天、到考試結束以後的完整檢查清單，全部依據 ABRSM 官方公開資料整理：  
+**[ExamDay_Guide.pdf](ExamDay_Guide.pdf)** —— Grade 1–5 線上樂理考試適用
+
 ---
 
 ## 常見問題
